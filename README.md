@@ -1,5 +1,5 @@
 # RandomForestClassifier---CreditScore   
-# csv file and the code is in the release folder ( on the right side tabs)
+# csv file and the code is in the release folder ( Look for a release folder tab on the right side)
 
 Banks and Credit card companies calculate your credit score to determine your creditworthiness. It helps Banks and Credit card companies immediately to issue loans to customers with good creditworthiness.
 
